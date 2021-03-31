@@ -1,0 +1,112 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+desktop: 1920x1080 165Hz; virtual: 3000x1920 at 0,-192
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\KERO\Assets & Projects\BlockBreaker_final\BlockBreaker_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.589800 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 3.506700 ms (FindLiveObjects: 0.010800 ms CreateObjectMapping: 0.005800 ms MarkObjects: 0.062800 ms  DeleteObjects: 2.365300 ms)
+
+collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.207300 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 5.954100 ms (FindLiveObjects: 0.003500 ms CreateObjectMapping: 0.004100 ms MarkObjects: 0.071900 ms  DeleteObjects: 4.853500 ms)
+
+UnloadTime: 0.300100 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 1.098900 ms (FindLiveObjects: 0.005200 ms CreateObjectMapping: 0.004600 ms MarkObjects: 0.062300 ms  DeleteObjects: 0.001500 ms)
+
+UnloadTime: 0.177200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 243.
+Total: 1.121100 ms (FindLiveObjects: 0.005700 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.069000 ms  DeleteObjects: 0.001800 ms)
+
+UnloadTime: 0.192300 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 1.118000 ms (FindLiveObjects: 0.007900 ms CreateObjectMapping: 0.006000 ms MarkObjects: 0.092900 ms  DeleteObjects: 0.001700 ms)
+
+collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.252700 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 10.880500 ms (FindLiveObjects: 0.003400 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.070900 ms  DeleteObjects: 9.787500 ms)
+
+UnloadTime: 0.187800 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 1.115200 ms (FindLiveObjects: 0.007700 ms CreateObjectMapping: 0.005100 ms MarkObjects: 0.069300 ms  DeleteObjects: 0.001700 ms)
+
+UnloadTime: 0.186500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.117300 ms (FindLiveObjects: 0.006100 ms CreateObjectMapping: 0.005100 ms MarkObjects: 0.083200 ms  DeleteObjects: 0.001500 ms)
+
+collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.194100 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 8.347300 ms (FindLiveObjects: 0.004300 ms CreateObjectMapping: 0.005900 ms MarkObjects: 0.082500 ms  DeleteObjects: 7.320000 ms)
+
+UnloadTime: 0.173400 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.043700 ms (FindLiveObjects: 0.006000 ms CreateObjectMapping: 0.005300 ms MarkObjects: 0.065600 ms  DeleteObjects: 0.001400 ms)
+
+collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.221300 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 8.419900 ms (FindLiveObjects: 0.003400 ms CreateObjectMapping: 0.004700 ms MarkObjects: 0.068600 ms  DeleteObjects: 7.387500 ms)
+
+UnloadTime: 0.167100 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 151.
+Total: 1.017800 ms (FindLiveObjects: 0.004400 ms CreateObjectMapping: 0.004600 ms MarkObjects: 0.070100 ms  DeleteObjects: 0.001400 ms)
+
+quit done :)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
